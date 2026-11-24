@@ -1,0 +1,43 @@
+                                               Smartphone Usage & Productivity Analysis – Excel
+
+Project Overview
+This project explores the relationship between smartphone usage, sleep duration, stress levels, and productivity using Microsoft Excel. The goal is to identify usage patterns and understand how screen time relates to lifestyle and productivity indicators.
+
+Tools Used
+- Microsoft Excel
+- Excel formulas
+- PivotTables
+- PivotCharts
+- Interactive dashboard elements
+
+Dataset Details
+- 5,499 records
+- User ID
+- Daily phone usage hours
+- Sleep hours
+- Stress level
+- Other available lifestyle and productivity attributes
+
+Data Analysis
+- Checked and cleaned the dataset
+- Used formulas to summarize and analyze data
+- Created PivotTables and charts
+- Compared smartphone usage with sleep and stress indicators
+- Developed an interactive dashboard for data exploration
+
+Dashboard Features
+- Average daily smartphone usage
+- Sleep duration analysis
+- Stress-level distribution
+- Comparison of screen time and sleep
+- User behavior and productivity indicators
+- Charts and summary KPIs
+
+Project Files
+- Excel workbook (.xlsx)
+- Sample dataset, if shareable
+- Dashboard screenshots
+
+Business Value
+The analysis supports better understanding of smartphone usage patterns and their possible relationships with sleep, stress, and productivity.
+
